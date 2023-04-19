@@ -1,4 +1,4 @@
-# Portfolio-Projects
+
 Netflix Analysis Project
 This project is a data analysis of the Netflix dataset, with the aim of exploring and discovering insights about the content available on Netflix.
 
@@ -21,9 +21,6 @@ The United States has the most content available on Netflix, followed by India a
 The majority of content on Netflix is rated TV-MA, followed by TV-14 and TV-PG.
 Contributing
 If you would like to contribute to this project, feel free to open a pull request or create an issue. Any contributions are welcome!
-
-License
-This project is licensed under the MIT License - see the LICENSE.md file for details.
 
 Acknowledgments
 Thanks to Netflix for providing the data used in this analysis.
